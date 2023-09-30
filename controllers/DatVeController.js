@@ -1,0 +1,2 @@
+window.DatVeController = function ($scope){
+}
